@@ -7,7 +7,7 @@
 	<parent>
 		<groupId>com.shuchengcity</groupId>
 		<artifactId>cim-patrol</artifactId>
-		<version>3.2.0</version>
+		<version>3.4.0</version>
 	</parent>
 
 	<artifactId>cim-patrol-api</artifactId>
